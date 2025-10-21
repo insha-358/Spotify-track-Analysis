@@ -1,6 +1,5 @@
 # Spotify-track-Analysis
 Spotify Streaming Data Analysis: Conducted data analysis on 8,000 Spotify tracks using Python, Spotify API, and Power BI to identify patterns in music popularity. Found that songs with moderate-to-high energy and danceability, especially in R&amp;B and Alternative genres, are most popular. 
-# Spotify Streaming Data Analysis
 
 ## Project Overview
 
@@ -310,7 +309,6 @@ spotify-streaming-analysis/
 
 ### Generate Visualizations
 
-```python
 
 ## Key Insights for Stakeholders
 
@@ -373,18 +371,6 @@ spotify-streaming-analysis/
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-analysis`)
-3. Commit changes (`git commit -m 'Add new analysis'`)
-4. Push to branch (`git push origin feature/new-analysis`)
-5. Open a Pull Request
-
----
-
 ## License
 
 This project is created for educational and research purposes. 
@@ -417,13 +403,12 @@ LinkedIn: [https://www.linkedin.com/in/insha-javaid-71a01423a/]
 
 If you use this analysis in your research or work, please cite:
 
-```
+
 Javaid, I. (2025). Spotify Streaming Data Analysis: Exploring Music Popularity 
 Through Audio Features and Genre Patterns. 
-Retrieved from [Your Repository URL]
-```
 
----
+
+
 
 ## Appendix
 
