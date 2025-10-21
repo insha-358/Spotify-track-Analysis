@@ -120,8 +120,7 @@ Power BI Desktop (for dashboard)
 ### Python Libraries
 ```bash
 pip install pandas numpy matplotlib seaborn
-pip install spotipy requests
-pip install scikit-learn
+
 ```
 
 ### Spotify API Setup
