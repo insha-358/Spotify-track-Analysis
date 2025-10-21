@@ -135,7 +135,7 @@ pip install scikit-learn
 ## Analysis Workflow
 
 ### 1. Data Collection
-
+- Collected Data using Spotify API
 
 ### 2. Data Cleaning
 - Remove duplicates and handle missing values
@@ -143,6 +143,12 @@ pip install scikit-learn
 - Standardize categorical variables
 
 ### 3. Feature Engineering
+- Popularity Bucket
+- Relaxation Score
+- Populalarity potential
+- popularity intensity
+- Mood zone etc
+
 
 ### 4. Exploratory Analysis
 - Summary statistics
